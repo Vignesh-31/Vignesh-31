@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Vignesh-31
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on Deep learning
+- 👀 I’m have submitted the US_price analysis for the past 20 years
 - 📫 Reach me on vigneshwaryem@gmail.vom
 
 <!---
